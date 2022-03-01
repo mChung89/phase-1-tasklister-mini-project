@@ -11,7 +11,9 @@ body {
 }
 
 button {
-  font-size: 7px;
+  font-size: 12px;
+  padding-left: 12px;
+  padding-right: 12px
 }
 
 #main-content {
